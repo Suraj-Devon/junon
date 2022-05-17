@@ -9,7 +9,8 @@ function navbar() {
     < div className="row">
       <div className="col-md-12 navbar">
         <a href="https://junoonnsut.com/" className="logo navbar-brand text-white offset-md-2">
-        {/* <img src="/images/junoon1.png" /> */} junoon
+        {/* <img src="/images/junoon1.png" /> junoon */}
+        <img  src="/images/junoon1.png" />
         </a>
         <ul className="nav">
           <li className="nav-item active"><a href="/" className="nav-link">Home</a></li>

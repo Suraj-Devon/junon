@@ -39,7 +39,7 @@ function middle() {
                     <h1>Junoon<span>!</span></h1>
                     <h2>Here's who I am & what I do</h2>
                     <div class="about-btns">
-                    <a href="https://www.instagram.com/junoon.nsut/"  > <button type="button" class="btn btn-pink">Istagram</button> </a>
+                    <a href="https://www.instagram.com/junoon.nsut/"  > <button type="button" class="btn btn-pink">Instagram</button> </a>
                     <a href="https://www.facebook.com/junoon.nsut/"  >    <button type="button" class="btn btn-white">Facebook</button> </a>
                     </div>
 

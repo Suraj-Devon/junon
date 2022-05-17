@@ -155,16 +155,24 @@
     opacity: 0.8;
 }
 
-@media (max-width: 1038px) {
-    .about-wrapper{
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        margin: 100px;
-    }
-}
-
 
 @media screen and (min-width: 992px){
+    .about-wrapper{
+        /* display: grid; */
+        grid-template-columns: repeat(2, 1fr);
+        /* margin: 300px; */
+    }
+    .about-left{
+        position: relative;
+        margin-top:30px;
+        margin-bottom:150px;
+    }
+    .about-left-content{
+        position: absolute;
+        right: -50px;
+    }
+}
+@media screen and (min-width: 592px){
     .about-wrapper{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -172,6 +180,8 @@
     }
     .about-left{
         position: relative;
+        /* margin-top:500px; */
+        margin-bottom:150px;
     }
     .about-left-content{
         position: absolute;
