@@ -44,7 +44,7 @@ function middle() {
                     </div>
 
                     <div class="about-para">
-                        <p>Founded in 2010, Junoon is a platform for photography and videography enthusiasts of NSUT where they can showcase and nurture their talents . 
+                        <p>Founded in 2010 , Junoon is a platform for photography and videography enthusiasts of NSUT where they can showcase and nurture their talents . 
                             Our members excel not just in different genres of photography but also in film making, photo editing and storytelling through pictures. 
                             We bring out our flair for photography through three of our main projects: Project Perspective, Storygram and Humans Of NSUT. 
                             Two more new projects, Poll it Out and Project Reels, have been incorporated adding to the rich history of the society. 
